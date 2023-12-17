@@ -1,3 +1,3 @@
 This is a dummy file
 Adding line 2 in Git hub repo
-master branch added line.
+child and master branch added line.
